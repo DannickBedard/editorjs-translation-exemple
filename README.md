@@ -1,5 +1,7 @@
 # editorjs-translation-exemple
 
+Why do i make this? because there doc does not have an complet exemple... to i looked into there code to find the right key
+
 ```json
 i18n: {
   "messages": {
